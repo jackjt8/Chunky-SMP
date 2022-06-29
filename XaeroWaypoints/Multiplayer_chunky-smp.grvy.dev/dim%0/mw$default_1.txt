@@ -1,0 +1,32 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:Spawner:S:1170:11:-211:2:false:0:gui.xaero_default:false:0:false
+waypoint:Skeleton Spawner:S:14:-43:29:15:false:0:gui.xaero_default:false:0:false
+waypoint:Lush Caves:L:1024:70:-2800:10:false:0:gui.xaero_default:false:0:false
+waypoint:spawner:S:1168:21:-241:2:false:0:gui.xaero_default:false:0:false
+waypoint:Pillager:P:2344:85:1048:12:false:0:gui.xaero_default:false:0:false
+waypoint:Portal Room:P:-816:-33:2106:0:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:1660:81:380:6:false:0:gui.xaero_default:false:0:false
+waypoint:Guardian:G:2273:63:191:2:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:2861:91:-767:6:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:1259:72:-1435:6:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:748:73:-731:6:false:0:gui.xaero_default:false:0:false
+waypoint:Spider Spawner:S:73:15:-16:2:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:317:66:-827:6:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:-361:~:-1037:6:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:-1028:82:-1450:6:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:395:70:-2358:6:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:22:72:-1915:6:false:0:gui.xaero_default:false:0:false
+waypoint:woodland mansion:W:-460:108:-2063:3:false:0:gui.xaero_default:false:0:false
+waypoint:Mountain Village:M:-365:120:-1263:6:false:0:gui.xaero_default:false:0:false
+waypoint:Fire_Blitz's base:F:-1846:68:2288:5:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:1118:105:604:6:false:0:gui.xaero_default:false:0:false
+waypoint:Village (claimed?):V:808:72:268:6:false:0:gui.xaero_default:false:0:false
+waypoint:Village:V:1133:70:-197:6:false:0:gui.xaero_default:false:0:false
+waypoint:Guardian 3:G:1312:63:-288:2:false:0:gui.xaero_default:false:0:false
+waypoint:Guardian 2:G:1135:63:-753:2:false:0:gui.xaero_default:false:0:false
+waypoint:Something?:S:308:70:-711:12:false:0:gui.xaero_default:false:0:false
+waypoint:Skeleton Farm:S:238:64:-113:15:false:0:gui.xaero_default:false:0:false
+waypoint:Guardian 1:G:-304:63:-225:2:false:0:gui.xaero_default:false:0:false
+waypoint:Community Base:C:94:68:8:5:false:0:gui.xaero_default:false:0:false

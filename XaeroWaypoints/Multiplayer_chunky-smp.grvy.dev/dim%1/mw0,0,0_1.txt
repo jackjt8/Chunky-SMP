@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:End_City_1:E:-2259:117:-602:13:false:0:gui.xaero_default:false:0:false
+waypoint:Outer Island Warp:O:-963:66:303:3:false:0:gui.xaero_default:false:0:false
+waypoint:Center Island Warp:C:-90:74:29:3:false:0:gui.xaero_default:false:0:false
+waypoint:Pad:P:97:49:-1:12:false:0:gui.xaero_default:false:0:false
