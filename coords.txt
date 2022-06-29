@@ -6,10 +6,10 @@ The Overworld
 ###
 Community Base:
 	93,		68,		8		- 	Community Base
-	74, 	68, 	-10		-	Cow/Sheep farm
+	74,		68,		-10		-	Cow/Sheep farm
 	49,		68,		-10		- 	Tree farm
-	67, 	68, 	8		-	Crop farm(s)
-	90, 	68, 	-4		-	Mending villager
+	67,		68,		8		-	Crop farm(s)
+	90,		68,		-4		-	Mending villager
 	91,		68,		-16		-	(auto) Sugar cane farm
 	91,		66,		17		-	Paper villager
 	84,		67,		13		-	Nether Portal
@@ -20,43 +20,43 @@ jackjt8's spawn base:
 	
 ###	
 The Cavern: (under community/jackjt8's spawn base)
-	71, [-58,0,67],	-95		-	jackjt8's spawn base Access
-	94, [11,60],	0		- 	Community Base Access
-	71, 	11,		7 		-	Zombie XP farm
-	50, 	11,		14 		-	Auto Bee farm
-	40, 	11,		-28 	-	Dried Kelp farm
-	61, 	11,		-27 	-	Auto furnace
-	83, 	0,		-8		-	Slime farm
-	90, 	11,		-5		-	Auto Sugar cane farm
+	71,	[-58,0,67],		-95		-	jackjt8's spawn base Access
+	94,	[11,60],		0		- 	Community Base Access
+	71, 		11,		7 		-	Zombie XP farm
+	50, 		11,		14 		-	Auto Bee farm
+	40, 		11,		-28 		-	Dried Kelp farm
+	61, 		11,		27		-	Auto furnace
+	83, 		0,		-8		-	Slime farm
+	90, 		11,		-5		-	Auto Sugar cane farm
 							-	Deactivated spider spawner!!!
 							
 ###							
 Mountain Base							
-	-366,	120,	-1264	-	Mountain Base
+	-366,		120,		-1264		-	Mountain Base
 
 ###
 jackjt8's village base:
-	1138,	66,		-202	-	jackjt8's village base
-	1161,	65,		-274	-	Dual Iron farms
-	1094,	71,		-240	-	Auto carrot farm
+	1138,		66,		-202		-	jackjt8's village base
+	1161,		65,		-274		-	Dual Iron farms
+	1094,		71,		-240		-	Auto carrot farm
 							-	Villager breeder
-	1110,	65,		-213	-	Villager bunk (ie free villagers)
+	1110,		65,		-213		-	Villager bunk (ie free villagers)
 
 ###
 Stronghold:
-	-813,	-31,	2106	- 	End Portal
+	-813,		-31,		2106		- 	End Portal
 	
 ###
 Fire_Blitz's base:
-	-1846,	68,		2288	-	Fire_Blitz's base
+	-1846,	68,		2288		-	Fire_Blitz's base
 
 ###
 Mesa biome:
-	1167,	67,		-2752	-	Mesa biome
+	1167,		67,		-2752		-	Mesa biome
 
 ###
 Pillager Outpost
-	2345,	84,		1050	-	Pillager Outpost
+	2345,		84,		1050		-	Pillager Outpost
 
 #########
 The Nether
@@ -70,15 +70,15 @@ Highways project (+/-x, +/-z):
 		
 	
 	The -z/north road:
-		-47,	65,		-158	-	Mountain Base
-		126,	60,		-349	- 	Mesa Biome
+		-47,		65,		-158		-	Mountain Base
+		126,		60,		-349		- 	Mesa Biome
 	
 	The +x/east road:
-		140,	66,		-26		-	jackjt8's village base (Iron/carrot farms)
-		138,	65,		-75		-	Bastion (follow jackt8's village branch)
-		300,	65,		20		- 	Nether fortress
-		359,	93,		-70		-	Villager + iceberg
-		276,	51,		118		- 	Pillager Outpost (turn at 275, 65, 0)
+		140,		66,		-26		-	jackjt8's village base (Iron/carrot farms)
+		138,		65,		-75		-	Bastion (follow jackt8's village branch)
+		300,		65,		20		- 	Nether fortress
+		359,		93,		-70		-	Villager + iceberg
+		276,		51,		118		- 	Pillager Outpost (turn at 275, 65, 0)
 							
 	The +z/south road:
 								-	Stronghold/End Portal
@@ -89,4 +89,4 @@ Highways project (+/-x, +/-z):
 #########
 The End
 
-	330,	#,		-3			-	Enderman farm
+	330,		#,		-3		-	Enderman farm
