@@ -1,6 +1,7 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
 #
+waypoint:gui.xaero_deathpoint:D:297:146:70:0:false:1:gui.xaero_default:false:0:true
 waypoint:skeleton farm:S:32:64:-14:11:false:0:gui.xaero_default:false:0:false
 waypoint:jackjt8's spawn base:J:9:63:-11:13:false:0:gui.xaero_default:false:0:false
 waypoint:Community Base:C:11:67:0:7:false:0:gui.xaero_default:false:0:false

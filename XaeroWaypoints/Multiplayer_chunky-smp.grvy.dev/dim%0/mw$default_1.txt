@@ -1,6 +1,9 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
 #
+waypoint:Gold Farm Collection:G:1796:96:308:6:false:0:gui.xaero_default:false:0:false
+waypoint:Guardian:G:1904:63:96:2:false:0:gui.xaero_default:false:0:false
+waypoint:iron:I:-2916:67:212:12:false:0:gui.xaero_default:false:0:false
 waypoint:Spawner:S:1170:11:-211:2:false:0:gui.xaero_default:false:0:false
 waypoint:Skeleton Spawner:S:14:-43:29:15:false:0:gui.xaero_default:false:0:false
 waypoint:Lush Caves:L:1024:70:-2800:10:false:0:gui.xaero_default:false:0:false

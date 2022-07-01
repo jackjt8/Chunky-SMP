@@ -21,7 +21,7 @@ I recommend using Fabric along with a mixture of the mods found below depending 
 
 #### [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
 
-This modpack is the one stop shop for your modern performance boosts, OptiFine feature parity, and various minor tweaks and improvements that don't break the vanilla feel.
+This modpack is the one stop shop for your modern performance boosts, OptiFine feature parity, and various minor tweaks and improvements that don't break the vanilla feel. [Mod list](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)
 
 #### [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby)
 

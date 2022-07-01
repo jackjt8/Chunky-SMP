@@ -58,9 +58,14 @@ Mesa biome:
 Pillager Outpost
 	2345,		84,		1050		-	Pillager Outpost
 
+###
+Gold Farm collection point
+
+
 #########
 The Nether
 
+###
 Highways project (+/-x, +/-z):
 	Core:
 		0,		0,		0		- 	Roof access
@@ -84,7 +89,12 @@ Highways project (+/-x, +/-z):
 								-	Stronghold/End Portal
 	
 	The -x/west road:
-		nothing yet
+								-	Iron farm
+###
+Roof:
+								-	Magma Cream farm
+								-	Gold Farm
+	
 	
 #########
 The End
